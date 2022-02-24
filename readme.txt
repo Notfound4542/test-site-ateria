@@ -1,0 +1,5 @@
+-Open Ateria installer.exe 
+---------------------------------
+-Open ATERIA folder 
+---------------------------------
+-Open Ateria game 
